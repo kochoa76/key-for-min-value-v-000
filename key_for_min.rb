@@ -6,4 +6,3 @@ name_hash.each do |name, value|
   if value == value.min
     return name
 end
-end
